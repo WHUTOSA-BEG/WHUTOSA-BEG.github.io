@@ -2,7 +2,7 @@
 title: 'WHUTOSA-BEG'
 description: '武汉理工大学开源技术协会后端组'
 keywords: '武汉理工大学, 后端'
-url: 'https://whutosa-beg.github.io' # your host
+url: 'https://github.com/WHUTOSA-BEG' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -19,7 +19,7 @@ NickName: '后端组'
 webtitle: '武汉理工大学开源技术协会后端组'
 bio: '编译未来'
 about: true
-aboutyou: '水运湖战队'
+aboutyou: '这群人很闷，什么都不想说。'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -46,7 +46,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2020
 
 # Markdown
 markdown: kramdown
