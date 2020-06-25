@@ -46,7 +46,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2020
+  since: 2019
 
 # Markdown
 markdown: kramdown
