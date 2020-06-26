@@ -6,6 +6,7 @@ date: 2019-12-24
 author: yuanbug
 authorSite: https://yuanbug.github.io/
 color: rgb(1,63,148)
+cover: /assets/post/fuckingJS.jpg
 tags: JS
 ---
 
