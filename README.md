@@ -2,7 +2,7 @@
 
 群组博客，使用的主题是 [HardCandy-Jekyll](https://github.com/xukimseven/HardCandy-Jekyll)。
 
-发布文章请提交到 `_post` 目录下，文件名格式为 `年-月-日-xxx.md`。
+发布文章请提交到 `_post` 目录下，文件名格式为 `年-月-日-xxx.md`；静态资源请放置到 `assets/post` 目录下，按年份和文章名命名子目录（如果文章只带一张图，可以不新建目录）。
 
 有需求可以提 issue 或直接 QQ 交流。改代码可以直接提交，也可以提 pr。
 
